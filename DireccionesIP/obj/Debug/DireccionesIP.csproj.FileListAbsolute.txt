@@ -1,0 +1,6 @@
+C:\Users\CC2-37\Documents\valeria vazquez\DireccionesIP\DireccionesIP\bin\DireccionesIP.dll.config
+C:\Users\CC2-37\Documents\valeria vazquez\DireccionesIP\DireccionesIP\bin\DireccionesIP.dll
+C:\Users\CC2-37\Documents\valeria vazquez\DireccionesIP\DireccionesIP\bin\DireccionesIP.pdb
+C:\Users\CC2-37\Documents\valeria vazquez\DireccionesIP\DireccionesIP\obj\Debug\DireccionesIP.csprojResolveAssemblyReference.cache
+C:\Users\CC2-37\Documents\valeria vazquez\DireccionesIP\DireccionesIP\obj\Debug\DireccionesIP.dll
+C:\Users\CC2-37\Documents\valeria vazquez\DireccionesIP\DireccionesIP\obj\Debug\DireccionesIP.pdb

@@ -1,0 +1,9 @@
+C:\Users\CC2-37\Documents\valeria vazquez\DireccionesIP\FormDirecciones\bin\Debug\FormDirecciones.exe.config
+C:\Users\CC2-37\Documents\valeria vazquez\DireccionesIP\FormDirecciones\bin\Debug\FormDirecciones.exe
+C:\Users\CC2-37\Documents\valeria vazquez\DireccionesIP\FormDirecciones\bin\Debug\FormDirecciones.pdb
+C:\Users\CC2-37\Documents\valeria vazquez\DireccionesIP\FormDirecciones\obj\Debug\FormDirecciones.csprojResolveAssemblyReference.cache
+C:\Users\CC2-37\Documents\valeria vazquez\DireccionesIP\FormDirecciones\obj\Debug\FormDirecciones.Form1.resources
+C:\Users\CC2-37\Documents\valeria vazquez\DireccionesIP\FormDirecciones\obj\Debug\FormDirecciones.Properties.Resources.resources
+C:\Users\CC2-37\Documents\valeria vazquez\DireccionesIP\FormDirecciones\obj\Debug\FormDirecciones.csproj.GenerateResource.Cache
+C:\Users\CC2-37\Documents\valeria vazquez\DireccionesIP\FormDirecciones\obj\Debug\FormDirecciones.exe
+C:\Users\CC2-37\Documents\valeria vazquez\DireccionesIP\FormDirecciones\obj\Debug\FormDirecciones.pdb
